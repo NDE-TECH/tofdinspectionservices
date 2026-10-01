@@ -1,0 +1,23 @@
+# IAIS Advanced Ultrasonic Inspection
+
+Official information site for advanced ultrasonic NDT services by IAIS India and IAIS UAE.
+
+## Core services
+- TOFD — Time of Flight Diffraction
+- PAUT — Phased Array Ultrasonic Testing
+- TFM — Total Focusing Method
+- FMC — Full Matrix Capture
+
+## Primary regions
+- IAIS UAE: Musaffah Industrial Area, Abu Dhabi, United Arab Emirates; i@iaisuae.com
+- IAIS India Group HQ: Chennai, Tamil Nadu, India; +91 93841 27579; i@iaisindia.com
+
+## Canonical service pages
+- https://www.tofdinspectionservices.com/services/tofd/
+- https://www.tofdinspectionservices.com/services/paut/
+- https://www.tofdinspectionservices.com/services/tfm/
+- https://www.tofdinspectionservices.com/services/fmc/
+- https://www.tofdinspectionservices.com/applications/
+- https://www.tofdinspectionservices.com/contact/
+
+Content is technical guidance and project scoping information. Final inspection technique, coverage and acceptance criteria depend on the approved project requirements and procedure.
